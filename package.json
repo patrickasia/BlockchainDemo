@@ -1,0 +1,26 @@
+{
+  "name": "blockchaindemo",
+  "version": "1.0.0",
+  "description": "A blockchain demo for Node.js, with a set of peers, miners and wallets.",
+  "main": "startnetwork.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickasia/BlockchainDemo.git"
+  },
+  "author": "Patrick (p@trick.asia)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patrickasia/BlockchainDemo/issues"
+  },
+  "homepage": "https://github.com/patrickasia/BlockchainDemo#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "http": "0.0.0",
+    "keypair": "^1.0.1",
+    "querystring": "^0.2.0",
+    "request": "^2.85.0"
+  }
+}
