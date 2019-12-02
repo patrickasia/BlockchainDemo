@@ -1,9 +1,3 @@
-/**
- * MIT License
- * Copyright (c) 2018 Patrick (p@trick.asia)
- * https://github.com/patrickasia/BlockchainDemo/blob/master/LICENSE
- */
-
 module.exports = {
 		getPubkeyScript: (address) => {
 			return 	"var address = '" + address + "';"	 +								
