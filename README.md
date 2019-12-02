@@ -51,7 +51,7 @@ And you can see how the network reacts with the logs...
 
 ## Author
 
-Patrick (p@trick.asia)
+Patrick
 
 ## License
 
