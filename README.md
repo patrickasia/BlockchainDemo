@@ -59,5 +59,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Logs Example
 
-![BlockchainDemo Logs Example](https://patrickasia.github.io/BlockchainDemo/img/logs.png)
+![BlockchainDemo Logs Example](https://github.com/patrickasia/patrickasia.github.io/blob/master/BlockchainDemo/img/logs.png)
 
