@@ -1,9 +1,3 @@
-/**
- * MIT License
- * Copyright (c) 2018 Patrick (p@trick.asia)
- * https://github.com/patrickasia/BlockchainDemo/blob/master/LICENSE
- */
-
 const DynamicDNS = require('./dynamicdns')
 const Peer = require('./peer')
 const Miner = require('./miner')
